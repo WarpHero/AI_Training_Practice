@@ -10,3 +10,5 @@
   > 2) Non-Linear Classification
 4. Unsupervised Learning
   > Autoencoders
+5. Hyperparameter Tuning
+  > 1) Learning Rate
