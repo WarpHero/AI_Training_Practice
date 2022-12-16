@@ -29,5 +29,5 @@
   >   >Fully Connected Layer
   > 2) Decision Tree
   > 3) Ensemble
-    >> - Bagging : Random Forest
-    >> - Boosting
+  > > - Bagging : Random Forest
+  > > - Boosting
