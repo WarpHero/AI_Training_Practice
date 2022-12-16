@@ -26,7 +26,7 @@
 ## Intermediate
 1. Model Analysis
   > 1) MLP
-    >> - Fully Connected Layer
+  >   >Fully Connected Layer
   > 2) Decision Tree
   > 3) Ensemble
     >> - Bagging : Random Forest
