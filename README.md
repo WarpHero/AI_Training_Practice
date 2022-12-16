@@ -25,9 +25,18 @@
 
 ## Intermediate
 ### 1. Model Analysis
-  > 1) MLP
-  >   >Fully Connected Layer
-  > 2) Decision Tree
-  > 3) Ensemble
-  > > - Bagging : Random Forest
-  > > - Boosting
+#### Part 1.
+##### 1) MLP
+  > Fully Connected Layer
+##### 2) Decision Tree
+##### 3) Ensemble
+  > Bagging : Random Forest
+  > Boosting
+
+#### Part 2.
+##### 1) EDA
+##### 2) Data Processing
+
+### 2. Model Training
+
+
