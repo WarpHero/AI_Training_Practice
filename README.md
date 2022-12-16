@@ -5,8 +5,8 @@
 ---
 
 ## Basic
-1. Linear Regression
-2. Non-Linear Regression
+### 1. Linear Regression
+### 2. Non-Linear Regression
   > Activation function : ReLU model
 3. Classification
   > 1) Linear Classification
