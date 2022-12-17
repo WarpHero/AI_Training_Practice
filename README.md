@@ -4,6 +4,8 @@
 - Tutorial Training
 ---
 
+---
+
 ## Basic
 ### 1. Linear Regression
 ### 2. Non-Linear Regression
@@ -43,11 +45,13 @@
 #### 2) Decision Tree
 #### 3) Ensemble
   > Bagging
-  - Random Forest
+  - ~~Random Forest~~
   > Boosting
-  - AdaBoost
-  - XGBoost
-    
+  - ~~AdaBoost~~
+  - ~~XGBoost~~
+  > -> AI_Intermediate_Practice.ipynb
+  > Modify Several Errors
+
 ### 3. Model Evaluation
 #### 1) Cross Validation
   > K-fold Cross Validation
