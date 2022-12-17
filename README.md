@@ -42,8 +42,11 @@
 #### 1) MLP
 #### 2) Decision Tree
 #### 3) Ensemble
-  > Random Forest
+  > Bagging
+  - Random Forest
   > Boosting
+  - AdaBoost
+  - XGBoost
     
 ### 3. Model Evaluation
 #### 1) Cross Validation
