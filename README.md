@@ -36,7 +36,17 @@
 #### Part 2.
 ##### 1) EDA
 ##### 2) Data Processing
+  > Data Preprocessiong
 
 ### 2. Model Training
+#### 1) MLP
+#### 2) Decision Tree
+#### 3) Ensemble
+  > Random Forest
+  > Boosting
+    
+### 3. Model Evaluation
+#### 1) Cross Validation
+  > K-fold Cross Validation
 
 
