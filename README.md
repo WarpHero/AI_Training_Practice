@@ -55,5 +55,7 @@
 ### 3. Model Evaluation
 #### 1) Cross Validation
   > K-fold Cross Validation
+  #### 2) Model Stacking
+  > Using XGBoost, RandomForest, MLP
 
 
