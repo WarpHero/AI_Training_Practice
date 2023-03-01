@@ -55,7 +55,9 @@
 ### 3. Model Evaluation
 #### 1) Cross Validation
   > K-fold Cross Validation
-  #### 2) Model Stacking
+#### 2) Model Stacking
   > Using XGBoost, RandomForest, MLP
-
+#### 3) Model Release Practice
+  > Necessary File on Server Practice
+  > Server is Flask with Ngrok
 
