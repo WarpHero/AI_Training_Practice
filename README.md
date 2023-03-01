@@ -60,4 +60,8 @@
 #### 3) Model Release Practice
   > Necessary File on Server Practice
   > Server is Flask with Ngrok
+  >> [Model Release](https://github.com/WarpHero/AI_Training_Practice/blob/main/mlp_v0.1.h5)
+  >> [X.csv](https://github.com/WarpHero/AI_Training_Practice/blob/main/X.csv)
+  >> [X.npy](https://github.com/WarpHero/AI_Training_Practice/blob/main/X.npy)
+  >> [y.npy](https://github.com/WarpHero/AI_Training_Practice/blob/main/y.npy)
 
