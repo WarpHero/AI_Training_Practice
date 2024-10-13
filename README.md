@@ -2,6 +2,7 @@
 
 - Keras with Tensorflow
 - Tutorial Training
+- Open CV
 ---
 
 ---
@@ -66,3 +67,7 @@
   >> [y.npy](https://github.com/WarpHero/AI_Training_Practice/blob/main/y.npy) </br>
   >> [Server Front HTML file](https://github.com/WarpHero/AI_Training_Practice/blob/main/submit_form.html) </br>
 
+
+
+## HoughTransform
+#### 1. HoughLines & HoughLinesP
