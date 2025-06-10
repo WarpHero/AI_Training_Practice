@@ -30,7 +30,7 @@ plt.scatter(
     alpha=0.7,
 )
 
-plt.title("HW4data.mat")
+plt.title("data.mat")
 plt.xlabel("x")
 plt.ylabel("y")
 plt.legend()
